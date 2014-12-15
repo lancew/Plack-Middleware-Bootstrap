@@ -76,7 +76,7 @@ __END__
 
 =head1 NAME
 
-Plack::Middleware::Bootstrap - A Plack Middleware to prettify simple HTML with Botstrap design template
+Plack::Middleware::Bootstrap - A Plack Middleware to prettify simple HTML with Bootstrap design template
 
 =head1 SYNOPSIS
 
